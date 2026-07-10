@@ -1,0 +1,6 @@
+{
+  "name": "Eyeball Security",
+  "description": "Interactive simulation lab for Secure Web Gateway evasion, client-side smuggling, chunk assembly, and unmonitored browser communications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

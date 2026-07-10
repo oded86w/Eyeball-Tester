@@ -197,7 +197,7 @@ export default function App() {
             {/* Friendly bright logo badge */}
             <div className="relative w-12 h-12 flex items-center justify-center">
               <img 
-                src="/blue.png" 
+                src="./blue.png" 
                 alt="Eyeball Security Logo" 
                 className="w-12 h-12 object-contain rounded-2xl shadow-sm" 
                 referrerPolicy="no-referrer"
